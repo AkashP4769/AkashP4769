@@ -1,4 +1,4 @@
-Hi 👋 My name is Akash P
+Hi! My name is Akash P
 ========================
 
 Frontend Developer
