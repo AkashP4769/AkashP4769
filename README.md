@@ -7,8 +7,8 @@ Frontend Developer
 Heya, Welcome to my profile
 
 * ✨  Fluent on Flutter
-* 💎  I'm currently working on [Pixie](http://https://github.com/FrostyCake47/Pixie---Personal-Diary)  - personal diary app
-* 🍂 I'm learning React
+* 💎  I'm working on [Pixie](http://https://github.com/FrostyCake47/Pixie---Personal-Diary)  - personal diary app
+* 🍂  I'm currently learning React
 * 🤝  I'm open to collaborating on projects based on Flutter and React
 * ✉️  You can contact me at [awesomeakash47@gmail.com](mailto:awesomeakash47@gmail.com)
 
