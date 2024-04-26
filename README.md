@@ -7,7 +7,7 @@ Frontend Developer
 Heya, Welcome to my profile
 
 * ✨  Fluent on Flutter
-* 💎  I'm working on [Spoti2Youtube](https://github.com/FrostyCake47/Spoti2Youtube)  - Clone your spotify playlist to Youtube
+* 💎  I'm working on [SpotiSync](https://github.com/FrostyCake47/Spoti2Youtube)  - Clone your spotify playlist to Youtube
 * 🍂  I'm currently learning React
 * 🤝  I'm open to collaborating on projects based on Flutter and React
 * ✉️  You can contact me at [awesomeakash47@gmail.com](mailto:awesomeakash47@gmail.com)
