@@ -1,7 +1,7 @@
 Hi! My name is Akash P
 ========================
 
-Frontend Developer
+Fullstack Developer
 ------------------
 
 Heya, Welcome to my profile
