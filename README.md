@@ -6,9 +6,9 @@ Fullstack Developer
 
 Heya, Welcome to my profile
 
-* ✨  Fluent on Flutter
+* ✨  Fluent on Flutter and React
 * 💎  I'm working on [SpotiSync](https://github.com/FrostyCake47/Spoti2Youtube)  - Clone your spotify playlist to Youtube
-* 🍂  I'm currently learning React
+* 🍂  I'm currently learning Flask
 * 🤝  I'm open to collaborating on projects based on Flutter and React
 * ✉️  You can contact me at [awesomeakash47@gmail.com](mailto:awesomeakash47@gmail.com)
 
