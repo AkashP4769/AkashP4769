@@ -10,7 +10,7 @@ Heya, Welcome to my profile
 * 💎  I'm working on [SpotiSync](https://github.com/FrostyCake47/Spoti2Youtube)  - Clone your spotify playlist to Youtube
 * 🍂  I'm currently learning Flask
 * 🤝  I'm open to collaborating on projects based on Flutter and React
-* ✉️  You can contact me at [awesomeakash47@gmail.com](mailto:awesomeakash47@gmail.com)
+* ✉️  You can contact me at [akashp4769@gmail.com](mailto:akashp4769@gmail.com)
 
 ### Skills
 
