@@ -8,7 +8,7 @@ Heya, Welcome to my profile
 
 * ✨  Fluent on Flutter and React
 * 💎  I'm working on [TextTales](https://github.com/FrostyCake47/TextTales)  - A Multiplayer chat game based on your creativity
-* 🍂  I'm currently learning Flask
+* 🍂  I'm currently improving my proefficiency in backend
 * 🤝  I'm open to collaborating on projects based on Flutter and React
 * ✉️  You can contact me at [akashp4769@gmail.com](mailto:akashp4769@gmail.com)
 
