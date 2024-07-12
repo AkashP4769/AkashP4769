@@ -1,7 +1,7 @@
 Hi! My name is Akash P
 ========================
 
-Fullstack Developer
+Mobile and Fullstack Web Developer
 ------------------
 
 Heya, Welcome to my profile
