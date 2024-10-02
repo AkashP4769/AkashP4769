@@ -26,9 +26,9 @@ Heya, Welcome to my profile
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/FrostyCake47"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FrostyCake47&stroke=ffffff&background=000000&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=FrostyCake47&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostyCake47&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <b>Top Repositories</b>
 
