@@ -8,8 +8,8 @@ Heya, Welcome to my profile
 
 * ✨  Fluent on Flutter and React
 * 💎  I'm working on [Reflect](https://github.com/FrostyCake47/reflect)  - A modular journal with End To End Encryption and Cache management with multimode save.
-* 🍂  I'm currently improving my proefficiency in backend
-* 🤝  I'm open to collaborating on projects based on Flutter and React
+* 🍂  I'm currently working in creating more complex projects
+* 🤝  I'm open to collaborating on projects based on Mobile app and backend development
 * ✉️  You can contact me at [akashp4769@gmail.com](mailto:akashp4769@gmail.com)
 
 ### Skills
